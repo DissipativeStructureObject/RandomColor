@@ -1,0 +1,5 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <inset android:drawable="@drawable/randomcolor" />
+</item>
+</layer-list>
